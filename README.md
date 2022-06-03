@@ -75,12 +75,12 @@ Users can see all the products added in the cart with quantity, price and total 
 ### Check-Out Page
 On this page users have to fill all the details for shipping purpose. Also, users can increase or decrease the quantity of product.
 
-<img width="938" alt="image" src="https://user-images.githubusercontent.com/94324872/170552476-f4ac5d4f-6a1d-431c-8866-d9f94e29e8c2.png">
+<img width="938" alt="image" src="https://user-images.githubusercontent.com/94324872/171923916-9b0b9aab-9d19-4ab2-97cc-b963431cd98e.png">
 
 ### RazorPay Payment 
 Users can pay money by filling card details or users can also use other payment option on payment gateway.
-<img width="934" alt="image" src="https://user-images.githubusercontent.com/94324872/170551777-049a0e90-0b57-42c4-929e-3ccd74b482c7.png">
-<img width="941" alt="image" src="https://user-images.githubusercontent.com/94324872/170551793-5bf4dc60-54e7-4f87-b38d-966ff5e06ae1.png">
+<img width="934" alt="image" src="https://user-images.githubusercontent.com/94324872/171925227-a025dd87-75df-42d4-b00f-2e62cae574ae.png">
+<img width="941" alt="image" src="https://user-images.githubusercontent.com/94324872/171925382-a53a6c99-f0eb-4858-8051-e103c42cd2cd.png">
 <img width="956" alt="image" src="https://user-images.githubusercontent.com/94324872/170551801-a0e09ea7-ddb6-4f6a-af4d-7f100f8f019a.png">
 
 
