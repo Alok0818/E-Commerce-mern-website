@@ -23,9 +23,9 @@
 
 Alok Kushwaha - [My Linkedin](https://www.linkedin.com/in/alok-kushwaha-02b6ba129/)
 
-Project Link - [Project Repo](https://github.com/masai-course/alokkumar_fw14_323/tree/master/Mern%20Project%20-%20E-commerce)
+Project Link - [Project Repo](https://github.com/Alok0818/E-Commerce-mern-website)
 
-Project Deployed Link - [Project Deployed Link](https://shopify-omega.vercel.app/)
+Project Deployed Link - [Project Deployed Link](https://e-commerce-alokkushwaha.vercel.app/)
 
 # Glimpse of Our Work:-
 
