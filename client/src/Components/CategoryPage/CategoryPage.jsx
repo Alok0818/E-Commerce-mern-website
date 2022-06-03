@@ -30,7 +30,16 @@ export default function CategoryPage() {
   const [rating11, SetRating] = useState("")
 
   useEffect(() => {
-      const dataSend = {
+    // axios.get(`https://e-commerce-website-pranav.herokuapp.com/product/${id}`, {
+    //   params: {
+    //     sorting:sortby,   
+    //     sizes_like: size,
+    //     'discount': discount11,
+    //     rating: rating11
+    //   }
+    // }).then((res) => setData(res.data))
+
+    const dataSend = {
       id,
       sortby,
       size,

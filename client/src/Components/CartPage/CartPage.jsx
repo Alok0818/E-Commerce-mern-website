@@ -39,13 +39,20 @@ export default function CartPage() {
 const handleRemoveQuantity = (e) => {
   console.log("remove",e)
   dispatch(removeOneCart(e))
-  
+  // alert("Product Added To Cart Successfully")
+  // toast.success("Product Added To Cart Successfully")
 }
 
   return (
     <div>
 
-      
+      {/* <div className='CategoryHeading'>
+        <p>Cart Category</p>
+        <p>
+          <span>Home |</span>
+          <span> Cart </span>
+        </p>
+      </div> */}
 
       {
         data.length !== 0 ?
@@ -83,7 +90,10 @@ const handleRemoveQuantity = (e) => {
               ))
             }
 
-            
+            {/* <div className='UpdateANDcoupon'>
+              <div class="hbtn hb-fill-right-br" onClick={() => navigate("/cart")}><p>Update Cart</p></div>
+              <div class="hbtn hb-fill-right-br"><p>Apply Coupon</p></div>
+            </div> */}
 
             <div className='SubTotalDiv'>
               <div><p>Subtotal</p></div>

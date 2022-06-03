@@ -38,7 +38,17 @@ export default function ProductDescriptionPage() {
     }
 
     return (
-        <div>            
+        <div>
+
+            {/* <div className='CategoryHeading'>
+                <p>Product Details</p>
+                <p>
+                    <span onClick={() => navigate("/")}>Home |</span>
+                    <span> Category</span>
+                </p>
+            </div> */}
+
+            
 
             {
                 data ? <div className='ProdDetails'>
