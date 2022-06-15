@@ -1,5 +1,5 @@
 # E-Commerce-Website
-### I have design an E-Commerce Website named Shopify. This project was build as a individual project in Masai School. 
+### I have design an E-Commerce Website named E-Commerce. This project was build as a individual project in Masai School. 
 
 # Features:-
 1. You will find latest products on this website.
