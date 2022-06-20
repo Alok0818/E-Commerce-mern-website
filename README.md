@@ -82,5 +82,5 @@ Users can pay money by filling card details or users can also use other payment 
 <img width="934" alt="image" src="https://user-images.githubusercontent.com/94324872/171925227-a025dd87-75df-42d4-b00f-2e62cae574ae.png">
 <img width="941" alt="image" src="https://user-images.githubusercontent.com/94324872/171925382-a53a6c99-f0eb-4858-8051-e103c42cd2cd.png">
 <img width="956" alt="image" src="https://user-images.githubusercontent.com/94324872/171925804-35923a17-68d9-4034-ae73-e3c22e89e08c.png">
-
+.... 
 
